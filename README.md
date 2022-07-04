@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PascalVallaster
+- 👀 I’m interested in ofensive security and programming languages (how they work, what makes them unic...)
+- 🌱 I learned Python, a bit Java and now I'm leaning Asembly and C/C++
+- 📫 You can reach me at my email: pascalvallaster@gmail.com
