@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PascalVallaster
 - 👀 I’m interested in ofensive security and programming languages (how they work, what makes them unic...)
 - 🌱 I learned Python and a bit of Java
-- 📫 You can reach me at my email: pascalvallaster@gmail.com
+- 📫 You can reach me at my email <a href="mailto:pascalvallaster@gmail.com?subject=Issue/Bug">pascalvallaster@gmail.com</a>
 - #️⃣ Visit me on 
     - <a href="https://stackoverflow.com/users/15889585/pascal-vallaster?tab=profile">stackoverflow</a>
     - <a href="https://pypi.org/user/PascalVallaster/">PyPi</a>
