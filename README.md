@@ -5,4 +5,4 @@
 - #️⃣ Visit me on 
     - <a href="https://stackoverflow.com/users/15889585/pascal-vallaster?tab=profile">stackoverflow</a>
     - <a href="https://pypi.org/user/PascalVallaster/">PyPi</a>
-- 👨🏼‍💻 Check out my newest repositories for some cool apps!
+- 👨🏼‍💻 Check out my newest <a href="https://github.com/PascalVallaster?tab=repositories">repositories</a> for some cool apps!
