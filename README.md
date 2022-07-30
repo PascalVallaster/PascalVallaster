@@ -3,6 +3,6 @@
 - 🌱 I learned Python and a bit of Java
 - 📫 You can reach me at my email: pascalvallaster@gmail.com
 - #️⃣ Visit me on 
-         - <a href=="https://stackoverflow.com/users/15889585/pascal-vallaster?tab=profile">stackoverflow</a>
-         - <a href=="https://pypi.org/user/PascalVallaster/">PyPi</a>
+    - <a href="https://stackoverflow.com/users/15889585/pascal-vallaster?tab=profile">stackoverflow</a>
+    - <a href="https://pypi.org/user/PascalVallaster/">PyPi</a>
 - 👨🏼‍💻 Check out my newest repositories for some cool apps!
