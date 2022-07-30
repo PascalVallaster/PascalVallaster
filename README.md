@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @PascalVallaster
 - 👀 I’m interested in ofensive security and programming languages (how they work, what makes them unic...)
 - 🌱 I learned Python and a bit of Java
-- 📫 You can reach me at my email: pascalvallaster@gmail.com
+- 📫 You can reach me at 
+    - my email: pascalvallaster@gmail.com
 - 👨🏼‍💻 Check out my newest repositories for some cool apps!
