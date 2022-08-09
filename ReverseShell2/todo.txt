@@ -1,0 +1,1 @@
+encrypt all tryffic with symmetrical key => send lenght of encrypted stuff => encrypt length asymetrically
