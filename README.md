@@ -9,5 +9,5 @@
 - 👨🏼‍💻 Check out my newest <a href="https://github.com/PascalVallaster?tab=repositories">repositories</a> for some cool apps!
 
 - 👀 I am particularly interested in cryptography and the TOR network.
-- ❤️ If you have any money left to spare, please consider donating it to the awesome TOR-Project!
+- ❤️ If you have any money left to spare, please consider donating it to the awesome TOR-Project!<br>
     <a href="https://donate.torproject.org/">Tor Project | Donate</a>
