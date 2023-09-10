@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PascalVallaster
 - 📫 You can reach me at my email <a href="mailto:pascalvallaster@gmail.com?subject=Issue/Bug/Message">pascalvallaster@gmail.com</a>
-- If youn wanna contact me via PGP, feel free to do so! You can find my Public-Key <a href="https://github.com/PascalVallaster/PascalVallaster/blob/main/My-OpenPGP-Key">here</a>.
+- If you wanna contact me via PGP, feel free to do so! You can find my Public-Key <a href="https://github.com/PascalVallaster/PascalVallaster/blob/main/My-OpenPGP-Key">here</a>.
 - #️⃣ Visit me on
     - <a href="https://stackoverflow.com/users/15889585/pascal-vallaster?tab=profile">stackoverflow</a>
     - <a href="https://pypi.org/user/PascalVallaster/">PyPi</a>
