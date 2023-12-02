@@ -5,7 +5,6 @@
     - <a href="https://stackoverflow.com/users/15889585/pascal-vallaster?tab=profile">stackoverflow</a>
     - <a href="https://pypi.org/user/PascalVallaster/">PyPi</a>
 - 👨🏼‍💻 Check out my newest <a href="https://github.com/PascalVallaster?tab=repositories">repositories</a> for some cool apps!<br>
-<br>
 - ❤️ If you have any money left to spare, please consider donating it to the awesome TOR-Project!<br>
     <a href="https://donate.torproject.org/">Tor Project | Donate</a>
 
